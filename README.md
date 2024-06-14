@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abims08 and my name is Abimbola Samson
 - 👀 I’m interested in learning skills as it pertains to each sector on QA Software Testing
-- 🌱 I’m currently learning QA Software Testing
+- 🌱 I’m a Software QA Engineer/Tester/ Quality Assurance, Quality Control and Documentation Professional
 - 💞️ I’m looking to collaborate on end product which is quality
 - 💬 Ask me about anything related to software testing or quality assurance
 - 📫 How to reach me @ https://www.linkedin.com/in/abimbola-samson-54126262/
